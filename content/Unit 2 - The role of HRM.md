@@ -1,0 +1,1 @@
+HRM: management of an organization's workforce

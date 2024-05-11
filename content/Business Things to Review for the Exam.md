@@ -1,0 +1,3 @@
+- unit 4: marketing mix
+- product, price, place, promotion
+- absorption cost (whatever that is...)

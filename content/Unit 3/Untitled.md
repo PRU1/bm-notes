@@ -1,0 +1,1 @@
+[[SWOT Analysis]] is something that was previously covered and I am testing this out right now
